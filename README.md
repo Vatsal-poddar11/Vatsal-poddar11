@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Vatsal Poddar
 
 <!--
 **Vatsal-poddar11/Vatsal-poddar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👨‍🎓 About Me:
-I am Vatsal Poddar.<br>I'm a Final Year student at KIIT University, Bhubaneswar.<br>I'm currently working on MERN Stack Web Development and have also explored some Machine Learning Algorithms.<br>I like solving problems on Data Structures and Algorithms and have solved 400+ problems spanning different Data Structures.
+I'm a Final Year student at KIIT University, Bhubaneswar.<br>I'm currently working on MERN Stack Web Development and have also explored some Machine Learning Algorithms.<br>I like solving problems on Data Structures and Algorithms and have solved 400+ problems spanning different Data Structures.
 
 
 ## 🌐 Socials:
