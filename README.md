@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👨‍🎓 About Me:
-I am Vatsal Poddar.<br>I'm a final year student at KIIT University, Bhubaneswar.<br>I'm currently working on MERN Stack Web Development and<br>have also explored some Machine Learning Algorithms.<br>I like solving problems on Data Structures and Algorithms as well.
+I am Vatsal Poddar.<br>I'm a Final Year student at KIIT University, Bhubaneswar.<br>I'm currently working on MERN Stack Web Development and have also explored some Machine Learning Algorithms.<br>I like solving problems on Data Structures and Algorithms and have solved 400+ problems spanning different Data Structures.
 
 
 ## 🌐 Socials:
